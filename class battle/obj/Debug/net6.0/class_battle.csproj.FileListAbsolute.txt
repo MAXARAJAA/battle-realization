@@ -1,0 +1,12 @@
+C:\Users\bohsh\Desktop\visual\class battle\class battle\bin\Debug\net6.0\class_battle.deps.json
+C:\Users\bohsh\Desktop\visual\class battle\class battle\bin\Debug\net6.0\class_battle.dll
+C:\Users\bohsh\Desktop\visual\class battle\class battle\bin\Debug\net6.0\ref\class_battle.dll
+C:\Users\bohsh\Desktop\visual\class battle\class battle\bin\Debug\net6.0\class_battle.pdb
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.AssemblyInfoInputs.cache
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.AssemblyInfo.cs
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.dll
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\ref\class_battle.dll
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.pdb
+C:\Users\bohsh\Desktop\visual\class battle\class battle\obj\Debug\net6.0\class_battle.csproj.AssemblyReference.cache
